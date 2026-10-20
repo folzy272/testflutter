@@ -1,0 +1,20 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub/
+.pub-cache/
+build/
+coverage/
+flutter_*.png
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Auto-generated local build configuration
+android/local.properties
+android/key.properties
+**/GeneratedPluginRegistrant.java
+**/generated_plugin_registrant.dart
